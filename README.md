@@ -6,4 +6,5 @@ cd RANDOM-X0
 
 python ARIYAN.py
 
+Fuck your system 
 
