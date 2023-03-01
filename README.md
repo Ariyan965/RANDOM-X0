@@ -4,9 +4,11 @@ git clone https://github.com/Ariyan965/RANDOM-X0
 
 cd RANDOM-X0
 
-python ARIYAN.py
+python FUCK-XD.py
 
-python XD.py
+
+
+
 
 
 # Fuck your system 
